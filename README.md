@@ -1,6 +1,6 @@
 # It's a bird... it's a plane...
 
-Merge your next PR with the biggest, most obnoxious merge button in the world.
+Merge your next PR with the biggest, most obnoxious merge button in the world. [Download that shit on the Chrome Webstore](https://chrome.google.com/webstore/detail/github-launch/pdjgcklkdjfceddnfdpajldnkcfacnih).
 
 ![The button](merge-button.png)
 
