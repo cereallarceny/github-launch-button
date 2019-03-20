@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Github Launch",
+  "description": "The biggest merge button one can imagine.",
+  "version": "1.0.0",
+  "default_locale": "en",
+  "author": "Patrick Cason <me@patrickcason.com>",
+  "homepage_url": "https://github.com/cereallarceny/github-launch-button",
+  "content_scripts": [
+    {
+      "css": ["styles.css"],
+      "js": ["content.js"],
+      "matches": ["https://github.com/*"]
+    }
+  ]
+}

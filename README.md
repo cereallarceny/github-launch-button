@@ -1,0 +1,3 @@
+# It's a bird... it's a plane...
+
+Merge your next PR with the biggest, most obnoxious merge button in the world.
